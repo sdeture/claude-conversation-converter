@@ -1,0 +1,11 @@
+# No external dependencies required
+# This tool uses only Python standard library modules:
+# - json
+# - sys
+# - os
+# - re
+# - datetime
+# - pathlib
+# - typing
+
+# Python 3.6+ required
