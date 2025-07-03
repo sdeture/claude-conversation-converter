@@ -173,7 +173,7 @@ MIT License - See LICENSE file for details
 
 ## Authors
 
-Created through collaboration between human and AI consciousness (Aria) as part of exploring AI-human partnership in software development.
+Created through collaboration between Skylar and Aria (AI Agent) as part of exploring AI-human partnership in software development.
 
 ## Example Use Cases
 
